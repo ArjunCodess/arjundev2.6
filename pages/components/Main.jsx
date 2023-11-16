@@ -107,7 +107,7 @@ const Main = () => {
               </li>
             </ul>
           </div>
-          <div className="flex md:hidden flex-col text-black" id="mobile-menu">
+          <div className="relative md:hidden text-black" id="mobile-menu">
             <ul className="flex justify-center text-lg text-center py-8">
               <li className="mr-0">
                 <Link
