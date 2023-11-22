@@ -129,7 +129,7 @@ const Work = () => {
                     TailwindCSS
                   </p>
                   <p class="px-2 py-2 mt-2 rounded-lg text-sm font-medium border border-gray-200 bg-gray-100 text-slate-700 focus:z-10 focus:ring-2 focus:ring-blue-700 focus:text-slate-700">
-                    MongoDB
+                    Prisma
                   </p>
                 </div>
               </div>
